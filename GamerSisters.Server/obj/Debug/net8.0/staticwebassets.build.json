@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "NDz//En/ldp+0rZwdY1FD6R+7vvZTQyXkkHov286McU=",
+  "Source": "GamerSisters.Server",
+  "BasePath": "_content/GamerSisters.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\XXX\\OneDrive\\Área de Trabalho\\Hackathon\\GamerSisters\\gamersisters.client\\gamersisters.client.esproj",
+      "Version": 2,
+      "Source": "gamersisters.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

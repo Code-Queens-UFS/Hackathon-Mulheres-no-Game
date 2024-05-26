@@ -1,0 +1,108 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Poetsen+One&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+
+.container {
+    height: 60vh;
+    width: 100vw;
+    /*height: 100%;
+    width: 100%;*/
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #9059EA;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+}
+
+.header {
+    display: flex;
+    text-align: center;
+    margin-bottom: 40px;
+    margin: 2%;
+    padding: 2%;
+   /* width: 100%;
+    height: 60%;*/
+}
+
+    .header h1 {
+        font-size: 4em;
+        margin-bottom: 10px;
+    }
+
+    .header .text {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.girl-image {
+    margin: 0 2%;
+    padding: 3% 0;
+    width: 300px;
+}
+
+.options {
+    display: flex;
+    gap: 20px;
+    margin-left: 40px;
+}
+
+.option {
+    font-family: "Inter", sans-serif;
+    height: 10vh;
+    background-color: #9966ff;
+    color: #fff;
+    padding: 15px 30px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: all 0.3s ease;
+}
+
+    .option:hover {
+        background-color: #6633cc;
+    }
+
+    .option .icon {
+        font-size: 2em;
+    }
+
+.footer {
+    font-family: "Inter", sans-serif;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center; /* horizontal alignment */
+    align-items: center; /* vertical alignment */
+    position: absolute;
+    bottom: 0;
+    background-color: #FBE3FF;
+    height: 40vh;
+    width: 100vw;
+}
+
+    .footer .text {
+        color: #130505;
+    }

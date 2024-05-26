@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamerSisters.Server", "GamerSisters.Server\GamerSisters.Server.csproj", "{E3524926-595E-4A12-8A6E-1D36A12387ED}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "gamersisters.client", "gamersisters.client\gamersisters.client.esproj", "{9B2C9899-D0CF-4A68-A0AB-71959978CAC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3524926-595E-4A12-8A6E-1D36A12387ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3524926-595E-4A12-8A6E-1D36A12387ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3524926-595E-4A12-8A6E-1D36A12387ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3524926-595E-4A12-8A6E-1D36A12387ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2C9899-D0CF-4A68-A0AB-71959978CAC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2C9899-D0CF-4A68-A0AB-71959978CAC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2C9899-D0CF-4A68-A0AB-71959978CAC9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9B2C9899-D0CF-4A68-A0AB-71959978CAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2C9899-D0CF-4A68-A0AB-71959978CAC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2C9899-D0CF-4A68-A0AB-71959978CAC9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56B48E6D-27CA-45F3-BBF2-73B99CA5F9A3}
+	EndGlobalSection
+EndGlobal
