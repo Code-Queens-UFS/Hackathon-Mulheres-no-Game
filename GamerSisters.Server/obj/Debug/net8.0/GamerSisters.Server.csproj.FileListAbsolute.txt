@@ -33,3 +33,8 @@ C:\Users\XXX\OneDrive\Área de Trabalho\Hackathon\GamerSisters\GamerSisters.Serv
 C:\Users\XXX\OneDrive\Área de Trabalho\Hackathon\GamerSisters\GamerSisters.Server\obj\Debug\net8.0\GamerSisters.Server.pdb
 C:\Users\XXX\OneDrive\Área de Trabalho\Hackathon\GamerSisters\GamerSisters.Server\obj\Debug\net8.0\GamerSisters.Server.genruntimeconfig.cache
 C:\Users\XXX\OneDrive\Área de Trabalho\Hackathon\GamerSisters\GamerSisters.Server\obj\Debug\net8.0\ref\GamerSisters.Server.dll
+C:\Users\XXX\OneDrive\Área de Trabalho\Hackathon\GamerSisters\GamerSisters.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\XXX\OneDrive\Área de Trabalho\Hackathon\GamerSisters\GamerSisters.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\XXX\OneDrive\Área de Trabalho\Hackathon\GamerSisters\GamerSisters.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\XXX\OneDrive\Área de Trabalho\Hackathon\GamerSisters\GamerSisters.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\XXX\OneDrive\Área de Trabalho\Hackathon\GamerSisters\GamerSisters.Server\obj\Debug\net8.0\GamerSisters.Server.sourcelink.json

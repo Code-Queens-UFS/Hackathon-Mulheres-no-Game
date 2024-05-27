@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GamerSisters.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+305a3d353793bed3b9cfd2a808d99489dc35b257")]
 [assembly: System.Reflection.AssemblyProductAttribute("GamerSisters.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GamerSisters.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

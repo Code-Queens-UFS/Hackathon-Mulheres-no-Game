@@ -9,7 +9,7 @@
 
 
 .container {
-    height: 60vh;
+    height: 100vh;
     width: 100vw;
     /*height: 100%;
     width: 100%;*/
@@ -27,12 +27,13 @@
 }
 
 .header {
+    height: 60%;
     display: flex;
     text-align: center;
     margin-bottom: 40px;
     margin: 2%;
     padding: 2%;
-   /* width: 100%;
+    /* width: 100%;
     height: 60%;*/
 }
 
@@ -98,6 +99,7 @@
     align-items: center; /* vertical alignment */
     position: absolute;
     bottom: 0;
+    right:0;
     background-color: #FBE3FF;
     height: 40vh;
     width: 100vw;
@@ -105,4 +107,168 @@
 
     .footer .text {
         color: #130505;
+    }
+
+.cadastro label{
+
+    margin: 2%;
+
+}
+
+
+
+.cadastro form {
+
+    text-align: center;
+    margin: 0 auto;
+}
+
+.player-button {
+    background-color: #b95faa;
+    color: white;
+    padding: 2%;
+    margin: 2%;
+    border-color: white;
+    font-family: "Inter", sans-serif;
+}
+
+.cadastro button {
+    background-color: #b95faa;
+    color: white;
+    padding: 2%;
+    margin: 2%;
+    border-color: white;
+    font-family: "Inter", sans-serif;
+}
+
+
+.card {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color: black;
+}
+
+.player-card{
+
+    padding: 0 1%;
+
+}
+
+a{
+
+    color:white
+
+}
+
+    a:hover {
+        color: #ff5733;
+    }
+
+.card-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 1% 0;
+}
+
+.card button {
+    background-color: #b95faa;
+    color: white;
+    padding: 2%;
+    margin: 2%;
+    border-color: white;
+    font-family: "Inter", sans-serif;
+}
+
+.cardBox {
+
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+
+.lobby h1, .lobby h2 {
+    margin: 0;
+    /* text-align: center;
+    margin-bottom: 20px;*/
+}
+
+
+.lobby {
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+}
+
+.headerLobby {
+    height: 25vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: palevioletred;
+    text-align:center;
+}
+
+.headerLobby .logo img{
+
+    width: 80px;
+    height:100px;
+    padding: 0 10px;
+
+
+}
+
+.lobbyMsg {
+    height: 55vh;
+    width: 100vw;
+    text-align:center;
+    margin: 0 auto;
+    padding: 0 1%;
+    position: absolute;
+    bottom: 10vw;
+    right: 0;
+}
+
+.footerLobby {
+    height: 10vh;
+    width: 100vw;
+    text-align: center;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 0vw;
+    right: 0;
+    background-color: palevioletred;
+}
+
+.price {
+    font-size: 36px;
+    font-weight: bold;
+    color: #ff5733;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    .price span {
+        font-size: 16px;
+        font-weight: normal;
+        margin-left: 10px;
+        vertical-align: super;
+    }
+
+.features {
+    list-style: none;
+    padding: 0;
+}
+
+    .features li {
+        display: flex;
+        align-items: center;
+        margin-bottom: 0;
     }

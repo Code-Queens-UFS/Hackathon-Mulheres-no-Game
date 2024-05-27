@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{9B2C9899-D0CF-4A68-A0AB-71959978CAC9}|gamersisters.client\\gamersisters.client.esproj|solutionrelative:gamersisters.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B2C9899-D0CF-4A68-A0AB-71959978CAC9}|gamersisters.client\\gamersisters.client.esproj|c:\\users\\xxx\\onedrive\\\u00E1rea de trabalho\\hackathon\\gamersisters\\gamersisters.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{9B2C9899-D0CF-4A68-A0AB-71959978CAC9}|gamersisters.client\\gamersisters.client.esproj|C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Hackathon\\GamerSisters\\gamersisters.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{9B2C9899-D0CF-4A68-A0AB-71959978CAC9}|gamersisters.client\\gamersisters.client.esproj|solutionrelative:gamersisters.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B2C9899-D0CF-4A68-A0AB-71959978CAC9}|gamersisters.client\\gamersisters.client.esproj|c:\\users\\xxx\\onedrive\\\u00E1rea de trabalho\\hackathon\\gamersisters\\gamersisters.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9B2C9899-D0CF-4A68-A0AB-71959978CAC9}|gamersisters.client\\gamersisters.client.esproj|C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Hackathon\\GamerSisters\\gamersisters.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9B2C9899-D0CF-4A68-A0AB-71959978CAC9}|gamersisters.client\\gamersisters.client.esproj|solutionrelative:gamersisters.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3524926-595E-4A12-8A6E-1D36A12387ED}|GamerSisters.Server\\GamerSisters.Server.csproj|c:\\users\\xxx\\onedrive\\\u00E1rea de trabalho\\hackathon\\gamersisters\\gamersisters.server\\gamersisters.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3524926-595E-4A12-8A6E-1D36A12387ED}|GamerSisters.Server\\GamerSisters.Server.csproj|solutionrelative:gamersisters.server\\gamersisters.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2C9899-D0CF-4A68-A0AB-71959978CAC9}|gamersisters.client\\gamersisters.client.esproj|c:\\users\\xxx\\onedrive\\\u00E1rea de trabalho\\hackathon\\gamersisters\\gamersisters.client\\src\\lobby.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B2C9899-D0CF-4A68-A0AB-71959978CAC9}|gamersisters.client\\gamersisters.client.esproj|solutionrelative:gamersisters.client\\src\\lobby.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B2C9899-D0CF-4A68-A0AB-71959978CAC9}|gamersisters.client\\gamersisters.client.esproj|c:\\users\\xxx\\onedrive\\\u00E1rea de trabalho\\hackathon\\gamersisters\\gamersisters.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B2C9899-D0CF-4A68-A0AB-71959978CAC9}|gamersisters.client\\gamersisters.client.esproj|solutionrelative:gamersisters.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:764764211:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lobby.jsx",
+              "DocumentMoniker": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Hackathon\\GamerSisters\\gamersisters.client\\src\\Lobby.jsx",
+              "RelativeDocumentMoniker": "gamersisters.client\\src\\Lobby.jsx",
+              "ToolTip": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Hackathon\\GamerSisters\\gamersisters.client\\src\\Lobby.jsx",
+              "RelativeToolTip": "gamersisters.client\\src\\Lobby.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-26T23:54:00.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Hackathon\\GamerSisters\\gamersisters.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "gamersisters.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Hackathon\\GamerSisters\\gamersisters.client\\src\\main.jsx",
+              "RelativeToolTip": "gamersisters.client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-26T21:50:49.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GamerSisters.Server",
+              "DocumentMoniker": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Hackathon\\GamerSisters\\GamerSisters.Server\\GamerSisters.Server.csproj",
+              "RelativeDocumentMoniker": "GamerSisters.Server\\GamerSisters.Server.csproj",
+              "ToolTip": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Hackathon\\GamerSisters\\GamerSisters.Server\\GamerSisters.Server.csproj",
+              "RelativeToolTip": "GamerSisters.Server\\GamerSisters.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T16:10:34.322Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,7 +87,7 @@
               "RelativeDocumentMoniker": "gamersisters.client\\src\\App.jsx",
               "ToolTip": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Hackathon\\GamerSisters\\gamersisters.client\\src\\App.jsx",
               "RelativeToolTip": "gamersisters.client\\src\\App.jsx",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAWAAAA",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAAAM0AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-05-25T22:33:07.533Z",
               "EditorCaption": ""
@@ -49,7 +100,7 @@
               "RelativeDocumentMoniker": "gamersisters.client\\src\\App.css",
               "ToolTip": "C:\\Users\\XXX\\OneDrive\\\u00C1rea de Trabalho\\Hackathon\\GamerSisters\\gamersisters.client\\src\\App.css",
               "RelativeToolTip": "gamersisters.client\\src\\App.css",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEYAAAAlAAAA",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAH0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-05-25T22:32:59.937Z",
               "EditorCaption": ""
